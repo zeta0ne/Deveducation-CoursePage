@@ -1,0 +1,14 @@
+.container {
+  padding-top: 10px;
+}
+.form-control {
+  margin-bottom: 10px !important;
+}
+
+.btn-outline-secondary {
+  margin-bottom: 10px;
+}
+
+#button-with-dropdown {
+  margin-bottom: 10px !important;
+}
